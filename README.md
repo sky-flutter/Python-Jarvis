@@ -1,8 +1,9 @@
 # Python Jarvis
 
 Step to run code:
-1)python3 -m venv myenv
-2)source myenv/bin/activate (For linux)
-3)pip install -r requirements.txt
-4)python main.py
-
+<ul>
+<li>python3 -m venv myenv</li>
+<li>source myenv/bin/activate (For linux)</li>
+<li>pip install -r requirements.txt</li>
+  <li>python main.py</li>
+</ul>
