@@ -36,6 +36,6 @@ SpeechRecognition==3.8.1
 toml==0.10.1
 typed-ast==1.4.1
 tzlocal==2.1
-urllib3==1.25.9
+urllib3==1.26.5
 wikipedia==1.4.0
 yarl==1.4.2
